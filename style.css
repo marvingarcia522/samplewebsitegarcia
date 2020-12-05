@@ -1,0 +1,68 @@
+		p {
+			font-family:sans-serif;
+			font-size: 30px;
+			color: navy;
+			background-color:#DAF3FA ;
+			margin: 0px;
+			text-align: center;
+			
+
+		}
+		table {
+ 		 	margin: .3em;
+ 		 	margin-left: auto;
+ 		 	margin-right:auto;
+ 		 	
+ 			width: 290px;
+
+		}
+
+		th {
+  			padding: .2em;
+		}
+
+		td {
+  			padding-left: .5em;
+  			padding-right: .5em;
+  			border: 5px solid #900;
+  			background-color: #DAF3FA;
+		}
+		div {
+			font-size: 30px;
+
+		}
+
+
+		.centerCell {
+  			text-align: center;
+		}
+
+		ul {
+ 			 list-style-type: none;
+		 	 margin: 0;
+ 		 	 margin-left: auto;
+ 		 	 margin-right:auto;
+ 			 width:290px;
+		  	 padding: auto;
+		 	 overflow: hidden;
+		  	 background-color: gray;
+		}
+
+		li {
+		  	 float: left;
+
+		}
+
+		li a {
+		  	 display: block;
+		  	 color: #DAF3FA ;
+		  	 text-align: center;
+		  	 padding: 16px 20px;
+		  	 text-decoration: none;
+		}
+
+		/* Change the link color to #111 (black) on hover */
+		li a:hover {
+		     background-color: #38D2E7;
+		     color: black;
+		}
